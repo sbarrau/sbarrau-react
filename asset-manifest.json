@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sbarrau-react/static/css/main.a2a9ecf0.css",
+    "main.js": "/sbarrau-react/static/js/main.a343529b.js",
+    "static/js/787.dbc30ae6.chunk.js": "/sbarrau-react/static/js/787.dbc30ae6.chunk.js",
+    "index.html": "/sbarrau-react/index.html",
+    "main.a2a9ecf0.css.map": "/sbarrau-react/static/css/main.a2a9ecf0.css.map",
+    "main.a343529b.js.map": "/sbarrau-react/static/js/main.a343529b.js.map",
+    "787.dbc30ae6.chunk.js.map": "/sbarrau-react/static/js/787.dbc30ae6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a9ecf0.css",
+    "static/js/main.a343529b.js"
+  ]
+}
